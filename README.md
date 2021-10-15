@@ -48,7 +48,7 @@ in the abundances hyperspace, accounting for the measurement errors,
 In detail, we defined **X** as the matrix of the *p* observed quantities
 for the *n* objects under consideration. Let *x*<sub>*i**j*</sub> be the
 element of the *i*-th row and *j*-th column of **X**, and
-*σ*<sub>*i**j*</sub> its uncertainty. We computed the *n* × *n*
+*σ*<sub>*ij*</sub> its uncertainty. We computed the *n* × *n*
 dissimilarity matrix for the *n* objects **D**, which is the matrix
 whose elements *d*(*a*, *b*) are the squared euclidean distances between
 rows *a* and *b* of **X**, weighted by their errors:
