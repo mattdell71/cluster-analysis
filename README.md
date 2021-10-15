@@ -46,7 +46,7 @@ The function `sq.dist` was used to define the distances between objects
 in the abundances hyperspace, accounting for the measurement errors,
 
 In detail, we defined **X** as the matrix of the *p* observed quantities
-for the *n* objects under consideration. Let *x*<sub>*i**j*</sub> be the
+for the *n* objects under consideration. Let *x*<sub>*ij*</sub> be the
 element of the *i*-th row and *j*-th column of **X**, and
 *σ*<sub>*ij*</sub> its uncertainty. We computed the *n* × *n*
 dissimilarity matrix for the *n* objects **D**, which is the matrix
