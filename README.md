@@ -207,7 +207,7 @@ The method consists in generating, for each row of **X**
 (*x*<sub>*i*</sub>), *J* MC synthetic observations drawing them from
 asymptotic error distribution. We adopt a multivariate Gaussian error
 distribution with mean **0** and covariance matrix
-$\\mathbf \\Sigma = {\\rm diag}(\\sigma\_i^2)$. Here we use *J* = 1 to
+$\\mathbf \\Sigma$ = diag($\\sigma\_i^2)$. Here we use *J* = 1 to
 investigate the variability of the average silhouette width due to
 measurement errors.
 
